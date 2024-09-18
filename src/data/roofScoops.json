@@ -1,0 +1,46 @@
+[
+	{
+		"id": "1",
+		"name": "Northeast"
+	},
+	{
+		"id": "2",
+		"name": "Jetstream"
+	},
+	{
+		"id": "3",
+		"name": "Headwind"
+	},
+	{
+		"id": "5",
+		"name": "Riptide"
+	},
+	{
+		"id": "9",
+		"name": "Windtunnel"
+	},
+	{
+		"id": "10",
+		"name": "Blastback"
+	},
+	{
+		"id": "11",
+		"name": "Airstream"
+	},
+	{
+		"id": "14",
+		"name": "Cyclone"
+	},
+	{
+		"id": "15",
+		"name": "Tempest"
+	},
+	{
+		"id": "17",
+		"name": "Twister"
+	},
+	{
+		"id": "18",
+		"name": "Typhoon"
+	}
+]

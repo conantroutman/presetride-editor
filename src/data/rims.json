@@ -1,0 +1,226 @@
+[
+	{
+		"id": "5ZIGEN",
+		"name": "5Zigen",
+		"styles": [
+			{
+				"id": 1,
+				"name": "FN01C"
+			},
+			{
+				"id": 2,
+				"name": "Supersix"
+			},
+			{
+				"id": 3,
+				"name": "5ZR"
+			},
+			{
+				"id": 4,
+				"name": "GN+"
+			},
+			{
+				"id": 5,
+				"name": "Gravis 1"
+			}
+		]
+	},
+	{
+		"id": "ADR",
+		"name": "ADR",
+		"styles": [
+			{
+				"id": 2,
+				"name": "Adrenaline"
+			},
+			{
+				"id": 1,
+				"name": "Empire"
+			},
+			{
+				"id": 3,
+				"name": "GT-Sport"
+			},
+			{
+				"id": 4,
+				"name": "M Sport"
+			},
+			{
+				"id": 5,
+				"name": "Sokudo8"
+			}
+		]
+	},
+	{
+		"id": "BBS",
+		"name": "BBS",
+		"styles": [
+			{
+				"id": 1,
+				"name": "GT"
+			},
+			{
+				"id": 2,
+				"name": "RS GT"
+			},
+			{
+				"id": 3,
+				"name": "LM"
+			},
+			{
+				"id": 4,
+				"name": "CH"
+			},
+			{
+				"id": 5,
+				"name": "RX"
+			},
+			{
+				"id": 6,
+				"name": "RK"
+			}
+		]
+	},
+	{
+		"id": "ENKEI",
+		"name": "Enkei",
+		"styles": [
+			{
+				"id": 1,
+				"name": "NT03+M"
+			},
+			{
+				"id": 2,
+				"name": "J Speed 3"
+			},
+			{
+				"id": 3,
+				"name": "ES-Tarmac"
+			},
+			{
+				"id": 4,
+				"name": "WRC Tarmac"
+			}
+		]
+	},
+	{
+		"id": "KONIG",
+		"name": "König",
+		"styles": [
+			{
+				"id": 1,
+				"name": "Blatant"
+			},
+			{
+				"id": 2,
+				"name": "Imagine"
+			},
+			{
+				"id": 3,
+				"name": "Theory"
+			}
+		]
+	},
+	{
+		"id": "LOWENHART",
+		"name": "Lövenhart",
+		"styles": [
+			{
+				"id": 1,
+				"name": "XIR"
+			},
+			{
+				"id": 2,
+				"name": "BR5"
+			},
+			{
+				"id": 3,
+				"name": "LDR"
+			}
+		]
+	},
+	{
+		"id": "OZ",
+		"name": "O.Z.",
+		"styles": [
+			{
+				"id": 1,
+				"name": "Superleggera"
+			},
+			{
+				"id": 2,
+				"name": "Superturismo"
+			},
+			{
+				"id": 3,
+				"name": "Opera"
+			},
+			{
+				"id": 4,
+				"name": "Superleggera III"
+			},
+			{
+				"id": 5,
+				"name": "Leonardo"
+			}
+		]
+	},
+	{
+		"id": "RACINGHART",
+		"name": "Racing Hart",
+		"styles": [
+			{
+				"id": 3,
+				"name": "Multi C4"
+			},
+			{
+				"id": 2,
+				"name": "CX"
+			},
+			{
+				"id": 1,
+				"name": "CP"
+			},
+			{
+				"id": 4,
+				"name": "CR"
+			}
+		]
+	},
+	{
+		"id": "ROJA",
+		"name": "Ro Ja",
+		"styles": [
+			{
+				"id": 1,
+				"name": "Formula 1"
+			},
+			{
+				"id": 2,
+				"name": "Formula 7"
+			},
+			{
+				"id": 3,
+				"name": "Formula 2"
+			}
+		]
+	},
+	{
+		"id": "VOLK",
+		"name": "Volk",
+		"styles": [
+			{
+				"id": 1,
+				"name": "TE37"
+			},
+			{
+				"id": 2,
+				"name": "CE28"
+			},
+			{
+				"id": 3,
+				"name": "GT-P"
+			}
+		]
+	}
+]

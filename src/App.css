@@ -1,0 +1,6 @@
+.main {
+	position: absolute;
+	inset: 0;
+	overflow: hidden;
+	display: flex;
+}

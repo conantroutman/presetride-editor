@@ -1,0 +1,8 @@
+.option {
+	flex: 1;
+	gap: 0.5rem;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	align-content: flex-start;
+}

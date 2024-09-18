@@ -1,0 +1,410 @@
+[
+  {
+    "id": "5ZIGEN",
+    "name": "5Zigen"
+  },
+  {
+    "id": "APEXI",
+    "name": "A'Pex Integration"
+  },
+  {
+    "id": "ABS",
+    "name": "5Zigen"
+  },
+  {
+    "id": "ACAUTOTECHNIC",
+    "name": "AC Autotechnic"
+  },
+  {
+    "id": "ADR",
+    "name": "ADR Wheels"
+  },
+  {
+    "id": "ACT",
+    "name": "Advanced Clutch Technologies"
+  },
+  {
+    "id": "AEM",
+    "name": "Advanced Engine Management"
+  },
+  {
+    "id": "ALPINE",
+    "name": "Alpine"
+  },
+  {
+    "id": "APEX",
+    "name": "Apex Springs"
+  },
+  {
+    "id": "ARAXIS",
+    "name": "Araxis Performance"
+  },
+  {
+    "id": "AROSPEED",
+    "name": "Arospeed"
+  },
+  {
+    "id": "AUDIOBAHN",
+    "name": "Audiobahn"
+  },
+  {
+    "id": "AVUS",
+    "name": "Avus"
+  },
+  {
+    "id": "B&M",
+    "name": "B&M Racing"
+  },
+  {
+    "id": "BBS",
+    "name": "BBS"
+  },
+  {
+    "id": "BILSTEIN",
+    "name": "Bilstein"
+  },
+  {
+    "id": "BORLA",
+    "name": "Borla"
+  },
+  {
+    "id": "BREMBO",
+    "name": "Brembo"
+  },
+  {
+    "id": "BRIDE",
+    "name": "Bride"
+  },
+  {
+    "id": "CASTROL",
+    "name": "Castrol"
+  },
+  {
+    "id": "CERAMICOOL",
+    "name": "Ceramicool"
+  },
+  {
+    "id": "CHROMEFLAMMEN",
+    "name": "Chrom & Flammen"
+  },
+  {
+    "id": "CLUTCHMASTERS",
+    "name": "Clutch Masters"
+  },
+  {
+    "id": "COLDFUSION",
+    "name": "Cold Fusion"
+  },
+  {
+    "id": "COMPTECH",
+    "name": "Comptech"
+  },
+  {
+    "id": "CROWER",
+    "name": "Crower Cams"
+  },
+  {
+    "id": "DC",
+    "name": "DC Sports"
+  },
+  {
+    "id": "DISTILLED",
+    "name": "Distilled"
+  },
+  {
+    "id": "DO-LUCK",
+    "name": "Do-Luck"
+  },
+  {
+    "id": "EDELBROCK",
+    "name": "Edelbrock"
+  },
+  {
+    "id": "EIBACH",
+    "name": "Eibach Springs"
+  },
+  {
+    "id": "ELABORARE",
+    "name": "Elaborare"
+  },
+  {
+    "id": "ENDLESS",
+    "name": "Endless USA"
+  },
+  {
+    "id": "ENKEI",
+    "name": "Enkei"
+  },
+  {
+    "id": "EUROLITE",
+    "name": "Eurolite"
+  },
+  {
+    "id": "EXTRDIMENSION",
+    "name": "Extreme Dimensions"
+  },
+  {
+    "id": "EXTREME",
+    "name": "Extreme Technology"
+  },
+  {
+    "id": "FASTBRAKES",
+    "name": "Fastbrakes"
+  },
+  {
+    "id": "FIDANZA",
+    "name": "Fidanza"
+  },
+  {
+    "id": "GREDDY",
+    "name": "GReddy"
+  },
+  {
+    "id": "GENTERA",
+    "name": "Gentera"
+  },
+  {
+    "id": "HNR",
+    "name": "H&R Springs"
+  },
+  {
+    "id": "HEDMAN",
+    "name": "Hedman Headers"
+  },
+  {
+    "id": "HENSHIN",
+    "name": "Henshin Auto"
+  },
+  {
+    "id": "HKS",
+    "name": "HKS USA"
+  },
+  {
+    "id": "HPRACING",
+    "name": "HP Racing"
+  },
+  {
+    "id": "ICEMAN",
+    "name": "Iceman Intakes"
+  },
+  {
+    "id": "IMPORTRACER",
+    "name": "Import Racer"
+  },
+  {
+    "id": "IMPORTTUNER",
+    "name": "Import Tuner"
+  },
+  {
+    "id": "INJEN",
+    "name": "Injen"
+  },
+  {
+    "id": "INTRAX",
+    "name": "Intrax Suspension"
+  },
+  {
+    "id": "JACKSON",
+    "name": "Jackson Racing"
+  },
+  {
+    "id": "JAPAN",
+    "name": "Japan Tuning"
+  },
+  {
+    "id": "JICMAGIC",
+    "name": "JIC - Magic"
+  },
+  {
+    "id": "JLA",
+    "name": "JL Audio"
+  },
+  {
+    "id": "JSP",
+    "name": "JSP America"
+  },
+  {
+    "id": "KENWOOD",
+    "name": "Kenwood"
+  },
+  {
+    "id": "KONI",
+    "name": "Koni"
+  },
+  {
+    "id": "KONIG",
+    "name": "König"
+  },
+  {
+    "id": "KVR",
+    "name": "KVR Performance"
+  },
+  {
+    "id": "KYB",
+    "name": "KYB America"
+  },
+  {
+    "id": "KZR",
+    "name": "KZR Performance"
+  },
+  {
+    "id": "LOWENHART",
+    "name": "Löwenhart"
+  },
+  {
+    "id": "MAGNAFLOW",
+    "name": "Magnaflow"
+  },
+  {
+    "id": "MATRIX",
+    "name": "Matrix Racing"
+  },
+  {
+    "id": "MAXI",
+    "name": "Maxi Tuning"
+  },
+  {
+    "id": "MODIFIEDMAG",
+    "name": "Modified Magazine"
+  },
+  {
+    "id": "MOMO",
+    "name": "Momo"
+  },
+  {
+    "id": "NEUSPEED",
+    "name": "Neuspeed"
+  },
+  {
+    "id": "NFSMW",
+    "name": "NFS Most Wanted"
+  },
+  {
+    "id": "NX",
+    "name": "Nitrous Express"
+  },
+  {
+    "id": "NOLOGY",
+    "name": "Nology Engineering"
+  },
+  {
+    "id": "OZ",
+    "name": "O.Z. Wheels"
+  },
+  {
+    "id": "PIAA",
+    "name": "PIAA"
+  },
+  {
+    "id": "POWERSLOT",
+    "name": "Power Slot"
+  },
+  {
+    "id": "RACINGHART",
+    "name": "Racing Hart Wheels"
+  },
+  {
+    "id": "REVHARD",
+    "name": "Rev Hard"
+  },
+  {
+    "id": "REVO",
+    "name": "Revo Technik"
+  },
+  {
+    "id": "RKSPORT",
+    "name": "RKSport"
+  },
+  {
+    "id": "ROJA",
+    "name": "Ro_Ja Wheels"
+  },
+  {
+    "id": "SCC",
+    "name": "Sport Compact Car"
+  },
+  {
+    "id": "SCORPION",
+    "name": "Scorpion Exhausts"
+  },
+  {
+    "id": "SKUNK2",
+    "name": "Skunk2 Racing"
+  },
+  {
+    "id": "SLP",
+    "name": "SLP Performance Parts"
+  },
+  {
+    "id": "SPARCO",
+    "name": "Sparco"
+  },
+  {
+    "id": "SS",
+    "name": "Super Street"
+  },
+  {
+    "id": "STILLEN",
+    "name": "Stillen"
+  },
+  {
+    "id": "STOPTECH",
+    "name": "Stoptech"
+  },
+  {
+    "id": "STRATO",
+    "name": "Stratospeed"
+  },
+  {
+    "id": "THERMAL",
+    "name": "Thermal"
+  },
+  {
+    "id": "TODA",
+    "name": "TODA"
+  },
+  {
+    "id": "TOYO",
+    "name": "Toyo Tires"
+  },
+  {
+    "id": "TUNERTRANS",
+    "name": "Tuner Transformation"
+  },
+  {
+    "id": "TURBONETICS",
+    "name": "Turbonetics"
+  },
+  {
+    "id": "UNORTHODOX",
+    "name": "Unorthodox Racing"
+  },
+  {
+    "id": "VENOM",
+    "name": "Venom"
+  },
+  {
+    "id": "VIS",
+    "name": "VIS Racing"
+  },
+  {
+    "id": "VOLK",
+    "name": "Volk"
+  },
+  {
+    "id": "WELD",
+    "name": "Weld Racing"
+  },
+  {
+    "id": "XSENGINEERING",
+    "name": "XS Engineering"
+  },
+  {
+    "id": "YOKOHAMA",
+    "name": "Yokohama"
+  },
+  {
+    "id": "ZEX",
+    "name": "ZEX"
+  }
+]

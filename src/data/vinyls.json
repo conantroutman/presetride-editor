@@ -1,0 +1,558 @@
+{
+	"flame": [
+		{
+			"name": "Flame 1",
+			"id": "FLAME01"
+		},
+		{
+			"name": "Flame 2",
+			"id": "FLAME02"
+		},
+		{
+			"name": "Flame 3",
+			"id": "FLAME03"
+		},
+		{
+			"name": "Flame 4",
+			"id": "FLAME04"
+		},
+		{
+			"name": "Flame 5",
+			"id": "FLAME05"
+		},
+		{
+			"name": "Flame 6",
+			"id": "FLAME06"
+		},
+		{
+			"name": "Flame 7",
+			"id": "FLAME07"
+		},
+		{
+			"name": "Flame 8",
+			"id": "FLAME08"
+		},
+		{
+			"name": "Flame 9",
+			"id": "FLAME09"
+		},
+		{
+			"name": "Flame 10",
+			"id": "FLAME10"
+		},
+		{
+			"name": "Flame 11",
+			"id": "FLAME11"
+		},
+		{
+			"name": "Flame 12",
+			"id": "FLAME12"
+		}
+	],
+	"tribal": [
+		{
+			"name": "Tribal 1",
+			"id": "TRIBAL01"
+		},
+		{
+			"name": "Tribal 2",
+			"id": "TRIBAL02"
+		},
+		{
+			"name": "Tribal 3",
+			"id": "TRIBAL03"
+		},
+		{
+			"name": "Tribal 4",
+			"id": "TRIBAL04"
+		},
+		{
+			"name": "Tribal 5",
+			"id": "TRIBAL05"
+		},
+		{
+			"name": "Tribal 6",
+			"id": "TRIBAL06"
+		},
+		{
+			"name": "Tribal 7",
+			"id": "TRIBAL07"
+		},
+		{
+			"name": "Tribal 8",
+			"id": "TRIBAL08"
+		},
+		{
+			"name": "Tribal 9",
+			"id": "TRIBAL09"
+		},
+		{
+			"name": "Tribal 10",
+			"id": "TRIBAL10"
+		},
+		{
+			"name": "Tribal 11",
+			"id": "TRIBAL11"
+		},
+		{
+			"name": "Tribal 12",
+			"id": "TRIBAL12"
+		},
+		{
+			"name": "Tribal 13",
+			"id": "TRIBAL13"
+		},
+		{
+			"name": "Tribal 14",
+			"id": "TRIBAL14"
+		}
+	],
+	"stripe": [
+		{
+			"name": "Stripe 1",
+			"id": "STRIPE01"
+		},
+		{
+			"name": "Stripe 2",
+			"id": "STRIPE02"
+		},
+		{
+			"name": "Stripe 3",
+			"id": "STRIPE03"
+		},
+		{
+			"name": "Stripe 4",
+			"id": "STRIPE04"
+		},
+		{
+			"name": "Stripe 5",
+			"id": "STRIPE05"
+		},
+		{
+			"name": "Stripe 6",
+			"id": "STRIPE06"
+		},
+		{
+			"name": "Stripe 7",
+			"id": "STRIPE07"
+		},
+		{
+			"name": "Stripe 8",
+			"id": "STRIPE08"
+		},
+		{
+			"name": "Stripe 9",
+			"id": "STRIPE09"
+		},
+		{
+			"name": "Stripe 10",
+			"id": "STRIPE10"
+		},
+		{
+			"name": "Stripe 11",
+			"id": "STRIPE11"
+		},
+		{
+			"name": "Stripe 12",
+			"id": "STRIPE12"
+		},
+		{
+			"name": "Stripe 13",
+			"id": "STRIPE13"
+		},
+		{
+			"name": "Stripe 14",
+			"id": "STRIPE14"
+		},
+		{
+			"name": "Stripe 15",
+			"id": "STRIPE15"
+		},
+		{
+			"name": "Stripe 16",
+			"id": "STRIPE16"
+		}
+	],
+	"race": [
+		{
+			"name": "Race Flag 1",
+			"id": "RACEFLAG01"
+		},
+		{
+			"name": "Race Flag 2",
+			"id": "RACEFLAG02"
+		},
+		{
+			"name": "Race Flag 3",
+			"id": "RACEFLAG03"
+		},
+		{
+			"name": "Race Flag 4",
+			"id": "RACEFLAG04"
+		},
+		{
+			"name": "Race Flag 5",
+			"id": "RACEFLAG05"
+		},
+		{
+			"name": "Race Flag 6",
+			"id": "RACEFLAG06"
+		},
+		{
+			"name": "Race Flag 7",
+			"id": "RACEFLAG07"
+		},
+		{
+			"name": "Race Flag 8",
+			"id": "RACEFLAG08"
+		},
+		{
+			"name": "Race Flag 9",
+			"id": "RACEFLAG09"
+		}
+	],
+	"national": [
+		{
+			"name": "Argentina",
+			"id": "NF_ARGENTINA"
+		},
+		{
+			"name": "Australia",
+			"id": "NF_AUSTRALIA"
+		},
+		{
+			"name": "Brazil",
+			"id": "NF_BRAZIL"
+		},
+		{
+			"name": "Canada",
+			"id": "NF_CANADA"
+		},
+		{
+			"name": "China",
+			"id": "NF_CHINA"
+		},
+		{
+			"name": "Denmark",
+			"id": "NF_DENMARK"
+		},
+		{
+			"name": "Finland",
+			"id": "NF_FINLAND"
+		},
+		{
+			"name": "France",
+			"id": "NF_FRANCE"
+		},
+		{
+			"name": "Germany",
+			"id": "NF_GERMANY"
+		},
+		{
+			"name": "Great Britain",
+			"id": "NF_GREATBRITAIN"
+		},
+		{
+			"name": "Greece",
+			"id": "NF_GREECE"
+		},
+		{
+			"name": "Italy",
+			"id": "NF_ITALY"
+		},
+		{
+			"name": "Japan",
+			"id": "NF_JAPAN"
+		},
+		{
+			"name": "Korea",
+			"id": "NF_KOREA"
+		},
+		{
+			"name": "Mexico",
+			"id": "NF_MEXICO"
+		},
+		{
+			"name": "Netherlands",
+			"id": "NF_NETHERLANDS"
+		},
+		{
+			"name": "Poland",
+			"id": "NF_POLAND"
+		},
+		{
+			"name": "Portugal",
+			"id": "NF_PORTUGAL"
+		},
+		{
+			"name": "Spain",
+			"id": "NF_SPAIN"
+		},
+		{
+			"name": "Sweden",
+			"id": "NF_SWEDEN"
+		},
+		{
+			"name": "Thailand",
+			"id": "NF_THAILAND"
+		},
+		{
+			"name": "USA",
+			"id": "NF_USA"
+		}
+	],
+	"body": [
+		{
+			"name": "Body 1",
+			"id": "BODY01"
+		},
+		{
+			"name": "Body 2",
+			"id": "BODY02"
+		},
+		{
+			"name": "Body 3",
+			"id": "BODY03"
+		},
+		{
+			"name": "Body 4",
+			"id": "BODY04"
+		},
+		{
+			"name": "Body 5",
+			"id": "BODY05"
+		},
+		{
+			"name": "Body 6",
+			"id": "BODY06"
+		},
+		{
+			"name": "Body 7",
+			"id": "BODY07"
+		},
+		{
+			"name": "Body 8",
+			"id": "BODY08"
+		},
+		{
+			"name": "Body 9",
+			"id": "BODY09"
+		},
+		{
+			"name": "Body 10",
+			"id": "BODY10"
+		},
+		{
+			"name": "Body 11",
+			"id": "BODY11"
+		},
+		{
+			"name": "Body 12",
+			"id": "BODY12"
+		},
+		{
+			"name": "Body Flame 1",
+			"id": "BODYFLAME01"
+		},
+		{
+			"name": "Body Flame 2",
+			"id": "BODYFLAME02"
+		},
+		{
+			"name": "Body Flame 3",
+			"id": "BODYFLAME03"
+		},
+		{
+			"name": "Body Flame 4",
+			"id": "BODYFLAME04"
+		},
+		{
+			"name": "Body Flame 5",
+			"id": "BODYFLAME05"
+		},
+		{
+			"name": "Body Flame 6",
+			"id": "BODYFLAME06"
+		},
+		{
+			"name": "Body Flame 7",
+			"id": "BODYFLAME07"
+		},
+		{
+			"name": "Body Flame 8",
+			"id": "BODYFLAME08"
+		},
+		{
+			"name": "Body Flame 9",
+			"id": "BODYFLAME09"
+		},
+		{
+			"name": "Body Stripe 1",
+			"id": "BODYSTRIPE01"
+		},
+		{
+			"name": "Body Stripe 2",
+			"id": "BODYSTRIPE02"
+		},
+		{
+			"name": "Body Stripe 3",
+			"id": "BODYSTRIPE03"
+		},
+		{
+			"name": "Body Stripe 4",
+			"id": "BODYSTRIPE04"
+		},
+		{
+			"name": "Body Stripe 5",
+			"id": "BODYSTRIPE05"
+		},
+		{
+			"name": "Body Stripe 6",
+			"id": "BODYSTRIPE06"
+		},
+		{
+			"name": "Body Stripe 7",
+			"id": "BODYSTRIPE07"
+		},
+		{
+			"name": "Body Stripe 8",
+			"id": "BODYSTRIPE08"
+		},
+		{
+			"name": "Body Stripe 9",
+			"id": "BODYSTRIPE09"
+		},
+		{
+			"name": "Body Stripe 10",
+			"id": "BODYSTRIPE10"
+		},
+		{
+			"name": "Body Tribal 1",
+			"id": "BODYTRIBAL01"
+		},
+		{
+			"name": "Body Tribal 2",
+			"id": "BODYTRIBAL02"
+		},
+		{
+			"name": "Body Tribal 3",
+			"id": "BODYTRIBAL03"
+		},
+		{
+			"name": "Body Tribal 4",
+			"id": "BODYTRIBAL04"
+		},
+		{
+			"name": "Body Tribal 5",
+			"id": "BODYTRIBAL05"
+		},
+		{
+			"name": "Body Tribal 6",
+			"id": "BODYTRIBAL06"
+		},
+		{
+			"name": "Body Tribal 7",
+			"id": "BODYTRIBAL07"
+		},
+		{
+			"name": "Body Tribal 8",
+			"id": "BODYTRIBAL08"
+		},
+		{
+			"name": "Body Tribal 9",
+			"id": "BODYTRIBAL09"
+		},
+		{
+			"name": "Body Tribal 10",
+			"id": "BODYTRIBAL10"
+		}
+	],
+	"unique": [
+		{
+			"name": "Unique 1",
+			"id": "UNIQUE01"
+		},
+		{
+			"name": "Unique 2",
+			"id": "UNIQUE02"
+		},
+		{
+			"name": "Unique 3",
+			"id": "UNIQUE03"
+		},
+		{
+			"name": "Unique 4",
+			"id": "UNIQUE04"
+		},
+		{
+			"name": "Unique 5",
+			"id": "UNIQUE05"
+		},
+		{
+			"name": "Unique 6",
+			"id": "UNIQUE06"
+		},
+		{
+			"name": "Unique 7",
+			"id": "UNIQUE07"
+		},
+		{
+			"name": "Unique 8",
+			"id": "UNIQUE08"
+		},
+		{
+			"name": "Unique 9",
+			"id": "UNIQUE09"
+		},
+		{
+			"name": "Unique 10",
+			"id": "UNIQUE10"
+		},
+		{
+			"name": "Unique 11",
+			"id": "UNIQUE11"
+		},
+		{
+			"name": "Unique 12",
+			"id": "UNIQUE12"
+		},
+		{
+			"name": "Carbon Fiber",
+			"id": "CARBONFIBER"
+		},
+		{
+			"name": "Black Edition 1",
+			"id": "CE01"
+		},
+		{
+			"name": "Black Edition 2",
+			"id": "CE02"
+		},
+		{
+			"name": "Black Edition 3",
+			"id": "CE03"
+		}
+	],
+	"contest": [
+		{
+			"name": "Cabalzn",
+			"id": "CONTEST01"
+		},
+		{
+			"name": "Red Blade",
+			"id": "CONTEST02"
+		},
+		{
+			"name": "Graf Clown",
+			"id": "CONTEST03"
+		},
+		{
+			"name": "Michael Lam",
+			"id": "CONTEST04"
+		},
+		{
+			"name": "Tosi Rodolphe",
+			"id": "CONTEST05"
+		}
+	]
+}

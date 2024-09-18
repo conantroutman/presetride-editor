@@ -1,0 +1,126 @@
+{
+  "sport": [
+    {
+      "id": "31",
+      "name": "Groundmaster"
+    },
+    {
+      "id": "8",
+      "name": "Reaper"
+    },
+    {
+      "id": "18",
+      "name": "Slingshot"
+    },
+    {
+      "id": "41",
+      "name": "Fishtail"
+    },
+    {
+      "id": "2",
+      "name": "Rocker 5"
+    },
+    {
+      "id": "42",
+      "name": "Viper"
+    },
+    {
+      "id": "15",
+      "name": "Banshee"
+    },
+    {
+      "id": "7",
+      "name": "Ripper"
+    },
+    {
+      "id": "3",
+      "name": "Airforce"
+    },
+    {
+      "id": "11",
+      "name": "Dragon"
+    },
+    {
+      "id": "16",
+      "name": "Mystic"
+    },
+    {
+      "id": "34",
+      "name": "Dynamo"
+    },
+    {
+      "id": "43",
+      "name": "Edge"
+    },
+    {
+      "id": "17",
+      "name": "Specter"
+    }
+  ],
+  "tuner": [
+    {
+      "id": "4",
+      "name": "Arrow"
+    },
+    {
+      "id": "5",
+      "name": "Barracuda"
+    },
+    {
+      "id": "32",
+      "name": "Switchblade"
+    },
+    {
+      "id": "1",
+      "name": "Jorgen"
+    },
+    {
+      "id": "44",
+      "name": "Lynx"
+    },
+    {
+      "id": "40",
+      "name": "Scarab"
+    },
+    {
+      "id": "9",
+      "name": "Borra"
+    },
+    {
+      "id": "29",
+      "name": "Fishtail"
+    },
+    {
+      "id": "10",
+      "name": "Ghost"
+    },
+    {
+      "id": "26",
+      "name": "Tornado"
+    },
+    {
+      "id": "36",
+      "name": "Joker"
+    },
+    {
+      "id": "13",
+      "name": "Tandem"
+    },
+    {
+      "id": "6",
+      "name": "Wildfire"
+    },
+    {
+      "id": "30",
+      "name": "Impact"
+    },
+    {
+      "id": "27",
+      "name": "Venom"
+    },
+    {
+      "id": "38",
+      "name": "Phoenix"
+    }
+  ]
+}

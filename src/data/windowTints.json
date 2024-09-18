@@ -1,0 +1,118 @@
+[
+	{
+		"id": "L1_BLACK",
+		"name": "Light Black"
+	},
+	{
+		"id": "L1_GREEN",
+		"name": "Light Green"
+	},
+	{
+		"id": "L1_MED_BLACK",
+		"name": "Light Black"
+	},
+	{
+		"id": "L1_MED_GREEN",
+		"name": "Light Green"
+	},
+	{
+		"id": "L1_BLUE",
+		"name": "Dark Blue"
+	},
+	{
+		"id": "L1_RED",
+		"name": "Dark Red"
+	},
+	{
+		"id": "L2_BLACK",
+		"name": "Dark Black"
+	},
+	{
+		"id": "L2_BLUE",
+		"name": "Dark Blue"
+	},
+	{
+		"id": "L2_GREEN",
+		"name": "Dark Green"
+	},
+	{
+		"id": "L2_RED",
+		"name": "Dark Red"
+	},
+	{
+		"id": "L2_YELLOW",
+		"name": "Dark Yellow"
+	},
+	{
+		"id": "L2_AQUA",
+		"name": "Dark Aqua"
+	},
+	{
+		"id": "L2_GOLD",
+		"name": "Dark Gold"
+	},
+	{
+		"id": "L2_LIME",
+		"name": "Dark Lime"
+	},
+	{
+		"id": "L2_PINK",
+		"name": "Dark Magenta"
+	},
+	{
+		"id": "L2_ORANGE",
+		"name": "Dark Orange"
+	},
+	{
+		"id": "L2_LAVENDER",
+		"name": "Dark Purple"
+	},
+	{
+		"id": "L3_PEARL_BLACK",
+		"name": "Dark Pearl Black"
+	},
+	{
+		"id": "L3_PEARL_GREEN",
+		"name": "Dark Pearl Green"
+	},
+	{
+		"id": "L3_PEARL_BLUE",
+		"name": "Dark Pearl Blue"
+	},
+	{
+		"id": "L3_PEARL_RED",
+		"name": "Dark Pearl Red"
+	},
+	{
+		"id": "L3_PEARL_YELLOW",
+		"name": "Dark Pearl Yellow"
+	},
+	{
+		"id": "L3_PEARL_AQUA",
+		"name": "Dark Pearl Aqua"
+	},
+	{
+		"id": "L3_PEARL_GRAPE",
+		"name": "Dark Pearl Coral"
+	},
+	{
+		"id": "L3_PEARL_ORANGE",
+		"name": "Dark Pearl Orange"
+	},
+	{
+		"id": "L3_PEARL_PINK",
+		"name": "Dark Pearl Magenta"
+	},
+	{
+		"id": "L3_PEARL_LIME",
+		"name": "Dark Pearl Lime"
+	},
+	{
+		"id": "L3_PEARL_LAVENDER",
+		"name": "Dark Pearl Purple"
+	},
+	{
+		"id": "L3_PEARL_GOLD",
+		"name": "Dark Pearl Gold"
+	}
+]
